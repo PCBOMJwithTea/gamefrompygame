@@ -1,0 +1,2 @@
+# gamefrompygame
+game from algoritm
